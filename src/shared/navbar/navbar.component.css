@@ -1,0 +1,8 @@
+nav{
+    position: absolute !important;
+    top: 0 !important;
+}
+
+#navbarNavDropdown {
+    justify-content: end;
+}

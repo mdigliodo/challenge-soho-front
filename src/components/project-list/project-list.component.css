@@ -1,0 +1,24 @@
+#title-project {
+    justify-content: center;
+    align-items    : center;
+    margin         : 0 auto;
+    max-width      : 50rem;
+    text-align     : center;
+    margin-top: 9rem;
+    margin-bottom: 4rem;
+}
+
+#hr {
+    color  : #04A700;
+    height : 0.25rem;
+    width  : 6.5rem;
+    opacity: 1 !important;
+}
+
+p {
+    opacity: 0.75;
+}
+
+#none-project {
+    opacity: 0.75;
+}

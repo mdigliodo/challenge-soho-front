@@ -1,0 +1,13 @@
+footer {
+    position: absolute;
+    bottom: 0;
+    height: 60px;
+    display: contents;
+}
+
+.col-center{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
